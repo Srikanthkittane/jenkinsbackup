@@ -1,0 +1,26 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>srikanthkn</string>
+      <string>Srikanthkn_8811150985769687137</string>
+    </entry>
+    <entry>
+      <string>noreply</string>
+      <string>noreply_4961578682252533626</string>
+    </entry>
+    <entry>
+      <string>kavanaramesh14</string>
+      <string>Kavanaramesh14_13619719304680383737</string>
+    </entry>
+    <entry>
+      <string>srikanthkn6</string>
+      <string>srikanthkn6_9616636820178499971</string>
+    </entry>
+    <entry>
+      <string>ubuntu</string>
+      <string>ubuntu_2516521679753997995</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

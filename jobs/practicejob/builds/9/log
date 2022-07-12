@@ -1,0 +1,45 @@
+Started by upstream project "[8mha:////4GUSTCQkcmgHKefdeDQlcX7N3j8HBBiSb6hk6ukTToTcAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/az8JP281PKCzIJUoKWp+gA+NZd3xgAAAA==[0mnewpipeline" build number [8mha:////4LXON3R5XL/nb8hCLV4iBlgZOIcfihUBUtRPV9N4oxdtAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQAygGfpZ+Un6eanlBZkFqUBLU/XNAKOZ6+jHAAAA[0m6
+originally caused by:
+ Started by upstream project "[8mha:////4OOXrnq4yQ8X87NPxGMat/7FZQQxaKCAwTHt7meQzAOJAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2/1PLE4uLM9Lzc1LwSfQB2nWFEyAAAAA==[0mNewassignment" build number [8mha:////4AmWkg89akIJsphiiUV5lEULrj02KKwXuLTRgm9xs4LHAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhH9rPwkfb/U8sTi4sz0vNzUvBJ9YwC2HxwGyQAAAA==[0m3
+ originally caused by:
+  Started by upstream project "[8mha:////4CUJsfXnMVtmKG0OE5ZWJiNqsY7tMY8NaNPGaBP7U7mnAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JH3H4uLM9Lzc1LwSfQCSgZJ7xQAAAA==[0mAssignment" build number [8mha:////4LF0MFqOA7ect5w9LjloEgTE/TyrFroYmMaQ0YZEVaA8AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+o7FxZnpebmpeSX6hgYArCVitccAAAA=[0m10
+  originally caused by:
+   Started by upstream project "[8mha:////4K3XkARjE5S8Ect/x486EhDRzsITN+MEcXid4mLG9yi1AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gxNyCnNT0zBJ9AJ34ZerEAAAA[0mSamplegit" build number [8mha:////4JcndZoFukWr4pjXdkPahXNl1B9lXdNaiCsoYuc5BlrBAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwk/eDE3IKc1PTMEn1LAJ6RW0/FAAAA[0m9
+   originally caused by:
+    Started by user [8mha:////4JMzJteXzoAbSgCg/L3GE0e7AIrPyat1vSU7AjlECrHJAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL94qLM7MS8kozsPACyiJ04xQAAAA==[0mSrikanth K N
+   Started by upstream project "[8mha:////4K3XkARjE5S8Ect/x486EhDRzsITN+MEcXid4mLG9yi1AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gxNyCnNT0zBJ9AJ34ZerEAAAA[0mSamplegit" build number [8mha:////4JDiHE8zxkC4e9QDQc5A3w2H7fHGD5kvfIcS1O8Jw2o/AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZB/az8JP3gxNyCnNT0zBJ9QwMA+YS2v8YAAAA=[0m10
+   originally caused by:
+    Started by an SCM change
+  Started by upstream project "[8mha:////4CUJsfXnMVtmKG0OE5ZWJiNqsY7tMY8NaNPGaBP7U7mnAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JH3H4uLM9Lzc1LwSfQCSgZJ7xQAAAA==[0mAssignment" build number [8mha:////4KqANB0y3Yo0CrgS9WGqj53EuSIj/A1u1rIzJjmfNKwKAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+o7FxZnpebmpeSX6hoYAOhVlwscAAAA=[0m11
+  originally caused by:
+   Started by an SCM change
+Running as SYSTEM
+Building remotely on [8mha:////4Lxl5DeWQMCOvONVH6HTy+Afi0BTI7XyiAPTtqc1n0ANAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYR/eT83ILSktQifd/EstQ8hTygawHozG8OyQAAAA==[0mMaven node (maven) in workspace /home/jenkins/workspace/practicejob
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/jenkins/workspace/practicejob/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 7881ea87de96ad0beee39cdb37abf190119587c2 (origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 7881ea87de96ad0beee39cdb37abf190119587c2 # timeout=10
+Commit message: "this is for webhook"
+ > git rev-list --no-walk 7881ea87de96ad0beee39cdb37abf190119587c2 # timeout=10
+[practicejob] $ /bin/sh -xe /tmp/jenkins10951561113349035222.sh
++ echo hi there i'm done
+hi there i'm done
++ sh biggest3n.sh 10 4 9
+enter the first number to compare
+enter the second number to compare
+enter the third number to compare
+10 is the biggest number
+Finished: SUCCESS

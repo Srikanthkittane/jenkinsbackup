@@ -1,0 +1,69 @@
+Started by GitHub push by Srikanthkittane
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Samplegit
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Samplegit/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 915d756932ec7ace89cf13db9864c6b82a135377 (origin/test2)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 915d756932ec7ace89cf13db9864c6b82a135377 # timeout=10
+Commit message: "Merge pull request #4 from Srikanthkittane/test1"
+First time build. Skipping changelog.
+[Samplegit] $ /bin/sh -xe /tmp/jenkins5223127932462464225.sh
++ echo after checking out the repository
+after checking out the repository
++ ls
+arith.sh
+biggest3.sh
+biggest3n.sh
+cost.sh
+crontab1.sh
+diskusage.sh
+forarrayrev.sh
+forexample.sh
+forexample1.sh
+forexample2.sh
+forfactorial.sh
+forreverse.sh
+forsum.sh
+getpalindrome.sh
+ifcomparision.sh
+ifequalno.sh
+iffindLFD.sh
+ifmatching.sh
+infinitecal.sh
+oldbuild.sh
+palindrome.sh
+pallindrome.sh
+revarsearr.sh
+switchcase1.sh
+switchdays.sh
+switchmenu.sh
+variable.sh
+whilechar.sh
+whilefact.sh
+whilelinedisp.sh
+whilepartifile.sh
+whilepattern.sh
+whilereadfile.sh
+whilereverse.sh
+whilerollno.sh
+whilesum.sh
+whiletxthtml.sh
++ sh biggest3n.sh 5 7 4
+enter the first number to compare
+enter the second number to compare
+enter the third number to compare
+ is the biggest number
+Finished: SUCCESS

@@ -1,0 +1,14 @@
+Started by user [8mha:////4JMzJteXzoAbSgCg/L3GE0e7AIrPyat1vSU7AjlECrHJAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL94qLM7MS8kozsPACyiJ04xQAAAA==[0mSrikanth K N
+Running as SYSTEM
+Building remotely on [8mha:////4COFvQ8smmCe0tjNCuheN16NBcGxf2QmeYEEFcHCpix8AAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/ZD83OTEEoU8oHMBIfFI+8oAAAA=[0mTomcat node (Tomcat) in workspace /home/jenkinsnew/workspace/Sample Job
+[Sample Job] $ /bin/sh -xe /tmp/jenkins10922318739218323243.sh
++ pwd
+/home/jenkinsnew/workspace/Sample Job
++ echo testing the sample build
+testing the sample build
++ ls
++ sh /home/ubuntu/deployment.sh
+sh: 0: Can't open /home/ubuntu/deployment.sh
+Build step 'Execute shell' marked build as failure
+Triggering a new build of [8mha:////4GUSTCQkcmgHKefdeDQlcX7N3j8HBBiSb6hk6ukTToTcAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/az8JP281PKCzIJUoKWp+gA+NZd3xgAAAA==[0mnewpipeline #5
+Finished: FAILURE

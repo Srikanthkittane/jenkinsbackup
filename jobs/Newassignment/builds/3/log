@@ -1,0 +1,76 @@
+Started by upstream project "[8mha:////4CUJsfXnMVtmKG0OE5ZWJiNqsY7tMY8NaNPGaBP7U7mnAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JH3H4uLM9Lzc1LwSfQCSgZJ7xQAAAA==[0mAssignment" build number [8mha:////4LF0MFqOA7ect5w9LjloEgTE/TyrFroYmMaQ0YZEVaA8AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+o7FxZnpebmpeSX6hgYArCVitccAAAA=[0m10
+originally caused by:
+ Started by upstream project "[8mha:////4K3XkARjE5S8Ect/x486EhDRzsITN+MEcXid4mLG9yi1AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gxNyCnNT0zBJ9AJ34ZerEAAAA[0mSamplegit" build number [8mha:////4JcndZoFukWr4pjXdkPahXNl1B9lXdNaiCsoYuc5BlrBAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwk/eDE3IKc1PTMEn1LAJ6RW0/FAAAA[0m9
+ originally caused by:
+  Started by user [8mha:////4JMzJteXzoAbSgCg/L3GE0e7AIrPyat1vSU7AjlECrHJAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL94qLM7MS8kozsPACyiJ04xQAAAA==[0mSrikanth K N
+ Started by upstream project "[8mha:////4K3XkARjE5S8Ect/x486EhDRzsITN+MEcXid4mLG9yi1AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gxNyCnNT0zBJ9AJ34ZerEAAAA[0mSamplegit" build number [8mha:////4JDiHE8zxkC4e9QDQc5A3w2H7fHGD5kvfIcS1O8Jw2o/AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZB/az8JP3gxNyCnNT0zBJ9QwMA+YS2v8YAAAA=[0m10
+ originally caused by:
+  Started by an SCM change
+Started by upstream project "[8mha:////4CUJsfXnMVtmKG0OE5ZWJiNqsY7tMY8NaNPGaBP7U7mnAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JH3H4uLM9Lzc1LwSfQCSgZJ7xQAAAA==[0mAssignment" build number [8mha:////4KqANB0y3Yo0CrgS9WGqj53EuSIj/A1u1rIzJjmfNKwKAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+o7FxZnpebmpeSX6hoYAOhVlwscAAAA=[0m11
+originally caused by:
+ Started by an SCM change
+Running as SYSTEM
+Building remotely on [8mha:////4LWiTttZbFAqTso4xl8MlqTju0rnoBpHEnZGO7B6a+awAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYR/eT83ILSktQi/fD8ouzUojygawGUH0AKyQAAAA==[0mWorkernode (newmaven) in workspace /home/buildlog/workspace/Newassignment
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/buildlog/workspace/Newassignment/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 7881ea87de96ad0beee39cdb37abf190119587c2 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 7881ea87de96ad0beee39cdb37abf190119587c2 # timeout=10
+Commit message: "this is for webhook"
+ > git rev-list --no-walk 0581d38e77cc1ca6d65204a736cdee8fb47762c9 # timeout=10
+[Newassignment] $ /bin/sh -xe /tmp/jenkins5045740380697361384.sh
++ ls
+arith.sh
+biggest3.sh
+biggest3n.sh
+crontab1.sh
+deployment.sh
+diskusage.sh
+forarrayrev.sh
+forexample.sh
+forexample2.sh
+forfactorial.sh
+forreverse.sh
+forsum.sh
+freak
+getpalindrome.sh
+ifcomparision.sh
+ifequalno.sh
+iffindLFD.sh
+iffor.sh
+ifmatching.sh
+infinitecal.sh
+oldbuild.sh
+palindrome.sh
+pallindrome.sh
+revarsearr.sh
+switchcase1.sh
+switchdays.sh
+switchmenu.sh
+variable.sh
+webhook.sh
+whilechar.sh
+whilefact.sh
+whilelinedisp.sh
+whilepartifile.sh
+whilepattern.sh
+whilereadfile.sh
+whilereverse.sh
+whilerollno.sh
+whilesum.sh
+whiletxthtml.sh
++ sh biggest3n.sh
+enter the first number to compare
+enter the second number to compare
+enter the third number to compare
+ is the biggest number
+Triggering a new build of [8mha:////4GUSTCQkcmgHKefdeDQlcX7N3j8HBBiSb6hk6ukTToTcAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/az8JP281PKCzIJUoKWp+gA+NZd3xgAAAA==[0mnewpipeline #6
+Finished: SUCCESS

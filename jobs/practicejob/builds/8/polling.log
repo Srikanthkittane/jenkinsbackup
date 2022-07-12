@@ -1,0 +1,23 @@
+Started on Jul 11, 2022, 3:40:27 PM
+Started by event from 140.82.115.109 ⇒ http://3.83.246.0:8080/github-webhook/ on Mon Jul 11 15:40:27 UTC 2022
+Polling SCM changes on Maven node
+Using strategy: Default
+[poll] Last Built Revision: Revision 682a57bf2efc3250682e8f253e7dab25c121d58c (origin/test1)
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/jenkins/workspace/practicejob/.git # timeout=10
+Fetching changes from the remote Git repositories
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Polling for changes in
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+ > git log --full-history --no-abbrev --format=raw -M -m 682a57bf2efc3250682e8f253e7dab25c121d58c..7881ea87de96ad0beee39cdb37abf190119587c2 # timeout=10
+Done. Took 0.27 sec
+Changes found

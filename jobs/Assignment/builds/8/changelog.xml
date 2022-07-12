@@ -1,0 +1,9 @@
+commit 851060af472244558a15f35afe36ec1623838e23
+tree 42e63de482e1c9d9263bd24fc144c609d9e8114f
+parent 72ec22abd6d2315d1ca81ac266d50e5774c01104
+author Srikanthkittane <108326078+Srikanthkittane@users.noreply.github.com> 2022-07-07 18:16:47 +0530
+committer GitHub <noreply@github.com> 2022-07-07 18:16:47 +0530
+
+    Update arith.sh
+
+:100644 100644 25f5e66ae0fd12155ba91543528797e2deb006d3 0c74e7be69ed59a3fafdbd621a4b83ab2ebf9b2c M	arith.sh

@@ -1,0 +1,31 @@
+Started by user [8mha:////4JMzJteXzoAbSgCg/L3GE0e7AIrPyat1vSU7AjlECrHJAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL94qLM7MS8kozsPACyiJ04xQAAAA==[0mSrikanth K N
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Assignment
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Assignment/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 851060af472244558a15f35afe36ec1623838e23 (origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 851060af472244558a15f35afe36ec1623838e23 # timeout=10
+Commit message: "Update arith.sh"
+ > git rev-list --no-walk 851060af472244558a15f35afe36ec1623838e23 # timeout=10
+[Assignment] $ /bin/sh -xe /tmp/jenkins9333586517441300120.sh
++ sh arith.sh 76 34
+enter the first value
+enter the second value
+sum of 76 and 34 is 110
+dif of 76 and 34 is 42
+mul of 76 and 34 is 2584
+div of 76 and 34 is 2
+Finished: SUCCESS

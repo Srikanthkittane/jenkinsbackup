@@ -1,0 +1,31 @@
+Started by GitHub push by Srikanthkittane
+Running as SYSTEM
+Building remotely on [8mha:////4Lxl5DeWQMCOvONVH6HTy+Afi0BTI7XyiAPTtqc1n0ANAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYR/eT83ILSktQifd/EstQ8hTygawHozG8OyQAAAA==[0mMaven node (maven) in workspace /home/jenkins/workspace/practicejob
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/jenkins/workspace/practicejob/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 7881ea87de96ad0beee39cdb37abf190119587c2 (origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 7881ea87de96ad0beee39cdb37abf190119587c2 # timeout=10
+Commit message: "this is for webhook"
+First time build. Skipping changelog.
+[practicejob] $ /bin/sh -xe /tmp/jenkins12398776108087309177.sh
++ echo hi there i'm done
+hi there i'm done
++ sh biggest3n.sh 10 4 9
+enter the first number to compare
+enter the second number to compare
+enter the third number to compare
+10 is the biggest number
+Finished: SUCCESS

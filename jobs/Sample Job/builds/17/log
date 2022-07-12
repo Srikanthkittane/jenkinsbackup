@@ -1,0 +1,74 @@
+Started by user [8mha:////4JMzJteXzoAbSgCg/L3GE0e7AIrPyat1vSU7AjlECrHJAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL94qLM7MS8kozsPACyiJ04xQAAAA==[0mSrikanth K N
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job
+[Sample Job] $ /bin/sh -xe /tmp/jenkins12358449749484816251.sh
++ pwd
+/var/lib/jenkins/workspace/Sample Job
++ echo testing the sample build
+testing the sample build
++ ls
++ ls /home/ubuntu
+arith.sh
+assign
+backup1
+backup2
+bare
+biggest3.sh
+biggest3n.sh
+cost.sh
+crontab1.sh
+deployment.sh
+diskusage.sh
+forarrayrev.sh
+forexample.sh
+forexample1.sh
+forexample2.sh
+forfactorial.sh
+forreverse.sh
+forsum.sh
+get1
+getpalindrome.sh
+gitcommit1
+gitlab
+gitsample
+gitsample1
+hello-world-war
+ifcomparision.sh
+ifequalno.sh
+iffindLFD.sh
+ifmatching.sh
+infinitecal.sh
+newfolder
+nonbare
+oldbuild.sh
+output
+outputfile
+palindop
+palindrome.sh
+pallindrome.sh
+palop
+pemkey1.pem
+practicegit1
+revarsearr.sh
+revop
+samplefile
+switchcase1.sh
+switchdays.sh
+switchmenu.sh
+temp
+testfile
+variable.sh
+whilechar.sh
+whilefact.sh
+whilelinedisp.sh
+whilepartifile.sh
+whilepattern.sh
+whilereadfile.sh
+whilereverse.sh
+whilerollno.sh
+whilesample
+whilesample1
+whilesum.sh
+whiletxt
+whiletxthtml.sh
+Finished: SUCCESS

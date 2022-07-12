@@ -1,0 +1,72 @@
+Started by user [8mha:////4JMzJteXzoAbSgCg/L3GE0e7AIrPyat1vSU7AjlECrHJAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL94qLM7MS8kozsPACyiJ04xQAAAA==[0mSrikanth K N
+Running as SYSTEM
+Building remotely on [8mha:////4Lxl5DeWQMCOvONVH6HTy+Afi0BTI7XyiAPTtqc1n0ANAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYR/eT83ILSktQifd/EstQ8hTygawHozG8OyQAAAA==[0mMaven node (maven) in workspace /home/jenkins/workspace/Samplegit
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/jenkins/workspace/Samplegit/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Multiple candidate revisions
+Scheduling another build to catch up with Samplegit
+Checking out Revision 682a57bf2efc3250682e8f253e7dab25c121d58c (origin/test1)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 682a57bf2efc3250682e8f253e7dab25c121d58c # timeout=10
+Commit message: "Merge pull request #5 from Srikanthkittane/test2"
+First time build. Skipping changelog.
+[Samplegit] $ /bin/sh -xe /tmp/jenkins16027666518983131293.sh
++ echo after checking out the repository
+after checking out the repository
++ ls
+arith.sh
+biggest3.sh
+biggest3n.sh
+cost.sh
+crontab1.sh
+diskusage.sh
+forarrayrev.sh
+forexample.sh
+forexample1.sh
+forexample2.sh
+forfactorial.sh
+forreverse.sh
+forsum.sh
+getpalindrome.sh
+ifcomparision.sh
+ifequalno.sh
+iffindLFD.sh
+ifmatching.sh
+infinitecal.sh
+oldbuild.sh
+palindrome.sh
+pallindrome.sh
+revarsearr.sh
+switchcase1.sh
+switchdays.sh
+switchmenu.sh
+variable.sh
+whilechar.sh
+whilefact.sh
+whilelinedisp.sh
+whilepartifile.sh
+whilepattern.sh
+whilereadfile.sh
+whilereverse.sh
+whilerollno.sh
+whilesum.sh
+whiletxthtml.sh
++ sh biggest3n.sh 5 7 4
+enter the first number to compare
+enter the second number to compare
+enter the third number to compare
+ is the biggest number
+Triggering a new build of [8mha:////4CUJsfXnMVtmKG0OE5ZWJiNqsY7tMY8NaNPGaBP7U7mnAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JH3H4uLM9Lzc1LwSfQCSgZJ7xQAAAA==[0mAssignment
+Finished: SUCCESS

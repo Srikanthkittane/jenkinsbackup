@@ -1,0 +1,65 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Assignment
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Assignment/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Srikanthkittane/Srikanthkittane.git # timeout=10
+Fetching upstream changes from https://github.com/Srikanthkittane/Srikanthkittane.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Srikanthkittane/Srikanthkittane.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/master
+Seen branch in repository origin/test1
+Seen branch in repository origin/test2
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 72ec22abd6d2315d1ca81ac266d50e5774c01104 (origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 72ec22abd6d2315d1ca81ac266d50e5774c01104 # timeout=10
+Commit message: "Update biggest3n.sh"
+First time build. Skipping changelog.
+[Assignment] $ /bin/sh -xe /tmp/jenkins14691512592505424670.sh
++ echo this is for Assignment
+this is for Assignment
++ ls
+arith.sh
+biggest3.sh
+biggest3n.sh
+cost.sh
+crontab1.sh
+diskusage.sh
+forarrayrev.sh
+forexample.sh
+forexample1.sh
+forexample2.sh
+forfactorial.sh
+forreverse.sh
+forsum.sh
+freak
+getpalindrome.sh
+ifcomparision.sh
+ifequalno.sh
+iffindLFD.sh
+ifmatching.sh
+infinitecal.sh
+oldbuild.sh
+palindrome.sh
+pallindrome.sh
+revarsearr.sh
+switchcase1.sh
+switchdays.sh
+switchmenu.sh
+variable.sh
+whilechar.sh
+whilefact.sh
+whilelinedisp.sh
+whilepartifile.sh
+whilepattern.sh
+whilereadfile.sh
+whilereverse.sh
+whilerollno.sh
+whilesum.sh
+whiletxthtml.sh
+Finished: SUCCESS
